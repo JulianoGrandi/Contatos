@@ -44,14 +44,7 @@ def delet_cont(indice):
     print("Número invalido")
 
 
-lista = [
-    {"name": "Maria", "phone": "1199999-1111", "email": "maria@email.com", "favorite": True},
-    {"name": "João", "phone": "1188888-2222", "email": "joao@email.com", "favorite": False},
-    {"name": "Ana", "phone": "1177777-3333", "email": "ana@email.com", "favorite": True},
-    {"name": "Pedro", "phone": "1166666-4444", "email": "pedro@email.com", "favorite": False},
-    {"name": "Lucas", "phone": "1155555-5555", "email": "lucas@email.com", "favorite": True},
-    {"name": "Beatriz", "phone": "1144444-6666", "email": "beatriz@email.com", "favorite": False}
-    ]
+lista = []
 
 while True:
 
